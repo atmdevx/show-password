@@ -1,14 +1,16 @@
-![ShowPassword Preview 1](https://lh3.googleusercontent.com/OVRUjIN0ivdBnefcqMNvrysC7AbGYBufaes_278PsDlRKa_sy6uBf2fsajQePUBp5YgCCS_LQ1gkVkICxJzcz5Vc0eo=s1280-w1280-h800)
-
-![ShowPassword Preview 2](https://lh3.googleusercontent.com/nKq0Noc8JDd3GNGNhTyZv_CIhA7Il7pbqfcCPKrF4nHJLpKT_Ysar5DFj195zf070nnE1ENI1Ow-_Uvs9IWLz3V3Iw=s1280-w1280-h800)
-
----
-
 # 🔍 See What You're Typing, Instantly
 
 Have you ever deleted your entire password just because you couldn't tell where the typo was? Or pasted the wrong password and had to start over?
 
 **ShowPassword** eliminates that frustration entirely. Just hover your cursor over any password field, and it instantly becomes readable — no clicks, no eye-icons, no extra steps.
+
+---
+
+## Screenshots 📸
+<div style="display: flex; justify-content: space-around; gap: 12px;">
+    <img alt="ShowPassword Screenshot-01" src="https://lh3.googleusercontent.com/OVRUjIN0ivdBnefcqMNvrysC7AbGYBufaes_278PsDlRKa_sy6uBf2fsajQePUBp5YgCCS_LQ1gkVkICxJzcz5Vc0eo=s1280-w1280-h800" width="48%" style="max-width: 48%; height: auto; border-radius: 8px;" />
+    <img alt="ShowPassword Screenshot-02" src="https://lh3.googleusercontent.com/nKq0Noc8JDd3GNGNhTyZv_CIhA7Il7pbqfcCPKrF4nHJLpKT_Ysar5DFj195zf070nnE1ENI1Ow-_Uvs9IWLz3V3Iw=s1280-w1280-h800" width="48%" style="max-width: 48%; height: auto; border-radius: 8px;" />
+</div>
 
 ---
 
